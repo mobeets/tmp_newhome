@@ -57,6 +57,7 @@ img {
 
 .nav {
     padding-bottom: 35px;
+    /*text-transform: uppercase;*/
 }
 
 .nav ul {
@@ -66,7 +67,8 @@ img {
     margin: 0;
 }
 .nav li {
-    font-size: 1.2em;
+    font-size: 1.4em;
+    line-height: 200%;
 }
 
 .nav a {
